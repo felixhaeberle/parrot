@@ -17,7 +17,7 @@
 	"readme": {
 		"en": "https://cdn.jsdelivr.net/gh/parrot-global/parrot@main/README.md"
 	},
-	"keywords": ["editor", "web", "figma", "plugin", "application", "website", "translator", "lix"],
+	"keywords": ["editor", "web", "figma", "extension", "application", "website", "translator", "lix"],
 	"publisherName": "inlang",
 	"publisherIcon": "https://inlang.com/favicon/safari-pinned-tab.svg",
 	"website": "https://www.figma.com/community/plugin/1205803482754362456",
